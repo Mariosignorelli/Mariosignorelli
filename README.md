@@ -35,6 +35,5 @@
    
   
  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-<img align="center" alt="Rafa-Java" height="30" width="40
+
 </div>
