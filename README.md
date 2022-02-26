@@ -32,6 +32,7 @@
    <img align="center" alt="Rafa-Java" height="30" width="40" 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Mario-Charp" height="30 width="40" />
    
   
  
