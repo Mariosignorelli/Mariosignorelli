@@ -27,11 +27,14 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
    <img align="center" alt="Rafa-Python" height="30" width="40" 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-    <img align="center" alt="Rafa-Python" height="30" width="40" 
+    <img align="center" alt="Rafa-Oracle" height="30" width="40" 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-   <img align="center" alt="Rafa-Python" height="30" width="40" 
+   <img align="center" alt="Rafa-Java" height="30" width="40" 
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+  <img align="center" alt="Mario-Dotnet" height="30" width="40" 
  
 
  
