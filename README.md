@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Atualmente não trabalho na áre e prucuro por estágio
-- 🌱 Estudo sistema de informção na (uni9) 3º semestre
+- 🔭 Atualmente não trabalho na áre e prucuro por oportunidades de aprimorar meus conhecimentos
+- 🌱 Estudo sistema de informção na (uni9) 4º semestre
 - 📫 signorelii2308@gmail.com
 - 😄 Pronouns: Ele você
 - 💻Tecnologias que melhor desempennho HTML5, CSS3, JAVASCRIPT, JAVA, SQLSERVER E OROCLE DATABASE 
