@@ -3,7 +3,6 @@
 
 
 - 🔭 Atualmente não trabalho na áre e prucuro por oportunidades de aprimorar meus conhecimentos
-- 🌱 Estudo sistema de informção na (uni9) 4º semestre
 - 📫 signorelii2308@gmail.com
 - 😄 Pronouns: Ele você
 - 💻Tecnologias que melhor desempenho HTML5, CSS3, Saas , JAVASCRIPT, C# , SQL-SERVER E OROCLE-DATABASE 
